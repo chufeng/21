@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  21
+//
+//  Created by qianfeng on 16/12/5.
+//  Copyright © 2016年 易达威. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
